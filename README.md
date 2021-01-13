@@ -1,1 +1,2 @@
-# PyViz
+# Pythonic Monopoly (Assignment)
+In this 
