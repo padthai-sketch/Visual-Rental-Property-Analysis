@@ -9,3 +9,9 @@ This dashboard presents the analysis of residential rental properties in San Fra
 <figure class="video_container">
   <iframe src="https://github.com/padthai-sketch/Rental-Property-Analysis/blob/main/Screen%20Recording%202564-03-04%20at%2002.06.35.mov"> </iframe>
 </figure>
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://github.com/padthai-sketch/Rental-Property-Analysis/blob/main/Screen%20Recording%202564-03-04%20at%2002.06.35.mov">
+  </video>
+</figure>
